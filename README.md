@@ -6,7 +6,7 @@ Untuk notebook yang lebih lengkap bisa di akses [disini](https://nbviewer.org/gi
 
 ## Dataset
 
-400 total data yang terbagi menjadi 200 data yabg berupa komentar positif dan 200 data yang berupa komentar negatif
+Dataset berjumlah <b>400</b> data yang terbagi menjadi <b>200</b> data berupa komentar positif dan <b>200</b> data berupa komentar negatif
 
 ## Requirements
 
