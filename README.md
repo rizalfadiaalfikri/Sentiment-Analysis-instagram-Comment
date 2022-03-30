@@ -13,3 +13,10 @@ Untuk notebook yang lebih lengkap bisa di akses [disini](https://nbviewer.org/gi
 * [Python 2.7](https://www.python.org/download/releases/2.7/) atau [Python 3.6](https://www.python.org/downloads/release/python-360/)
 * [Jupyter Notebook](http://jupyter.org/)
 
+## Dependencies
+
+* [pandas] (https://pandas.pydata.org/docs/getting_started/install.html)
+* [matplotlib] (https://matplotlib.org/stable/users/installing/index.html)
+* [scikit-learn] (https://scikit-learn.org/stable/install.html)
+* [nltk] (https://www.nltk.org/install.html)
+
