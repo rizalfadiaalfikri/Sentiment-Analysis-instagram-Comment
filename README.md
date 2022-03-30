@@ -15,8 +15,8 @@ Untuk notebook yang lebih lengkap bisa di akses [disini](https://nbviewer.org/gi
 
 ## Dependencies
 
-* [pandas] (https://pandas.pydata.org/docs/getting_started/install.html)
-* [matplotlib] (https://matplotlib.org/stable/users/installing/index.html)
-* [scikit-learn] (https://scikit-learn.org/stable/install.html)
-* [nltk] (https://www.nltk.org/install.html)
+* [pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+* [matplotlib](https://matplotlib.org/stable/users/installing/index.html)
+* [scikit-learn](https://scikit-learn.org/stable/install.html)
+* [nltk](https://www.nltk.org/install.html)
 
